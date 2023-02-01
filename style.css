@@ -21,17 +21,22 @@ p {
 }
 #Header {
   padding-bottom: 5rem;
+  width: 80%;
+  margin: 0 auto;
 }
 
 /* about section */
 
 #About {
   padding-bottom: 5rem;
+  width: 80%;
+  margin: 0 auto;
 }
 .mr8 {
   border-radius: 5px;
   width: 80%;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 /* Project section */
@@ -59,6 +64,11 @@ p {
 }
 .project-container > p {
   text-align: start;
+}
+
+.mini-project-div{
+  background-color: rgb(243, 243, 243);
+  padding-top: 3rem;
 }
 
 /* Contact Me */
